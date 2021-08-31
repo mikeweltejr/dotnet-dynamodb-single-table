@@ -1,0 +1,7 @@
+.vscode
+
+Movies.API/bin
+Movies.API/obj
+
+Movies.LocalDynamoDB/bin
+Movies.LocalDynamoDB/obj
